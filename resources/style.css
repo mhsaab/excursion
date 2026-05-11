@@ -1,18 +1,17 @@
-
 body {
-
-  text-align: center;
   background-color: black;
   color: white;
   text-align: center;
   font-family: Arial, sans-serif;
 }
 
-video {
-  width: 400px;
+img {
+  display: block;
+  margin: 20px auto;
 }
 
-a {
-  color: aquamarine;
+video {
+  display: block;
+  margin: 20px auto;
+  width: 400px;
 }
-``
